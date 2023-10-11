@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahmagiterhub
-- 👀 I’m interested in Algorithms
-- 🌱 I’m currently learning Pascal
+- 👀 I’m interested in Web Developement
+- 🌱 I’m currently learning Html,Css and Javascript
 - 📫 How to reach me r.khiat@esi-sba.dz
 
 <!---
